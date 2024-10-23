@@ -1,0 +1,97 @@
+{
+	Brain: {memories: {}},
+	HurtByTimestamp: 0,
+	Tame: 1b,
+	Owner: [I; -436446419, -101038168, -1594701315, -1640888741],
+	ForgeData: {},
+	LeashingEntities: [],
+	Attributes: [
+		{Base: 0.08d, Name: "forge:entity_gravity"},
+		{Base: 0.23021257108254894d, Name: "minecraft:generic.movement_speed"},
+		{Base: 0.0d, Name: "minecraft:generic.armor"},
+		{Base: 0.0d, Name: "forge:step_height_addition"},
+		{Base: 0.1d, Name: "caelus:fall_flying"},
+		{Base: 0.6933069074947725d, Name: "minecraft:horse.jump_strength"},
+		{
+			Base: 16.0d,
+			Modifiers: [{
+				Amount: -0.029540163718286296d,
+				Operation: 1,
+				UUID: [I; -1896325432, 1573605009, -1564798690, -648707748],
+				Name: "Random spawn bonus"
+			}],
+			Name: "minecraft:generic.follow_range"
+		},
+		{Base: 22.0d, Name: "minecraft:generic.max_health"}
+	],
+	LeashedByEntities: [],
+	Invulnerable: 0b,
+	FallFlying: 0b,
+	ForcedAge: 0,
+	PortalCooldown: 0,
+	AbsorptionAmount: 0.0f,
+	Bred: 0b,
+	FallDistance: 0.0f,
+	ArmorItem: {id: "minecraft:diamond_horse_armor", Count: 1b},
+	InLove: 0,
+	CanUpdate: 1b,
+	EatingHaystack: 0b,
+	DeathTime: 0s,
+	ForgeCaps: {
+		"tombstone:cap_familiar": {familiar_active: 0b},
+		"embers:scales": {scales: 0.0d},
+		"curios:inventory": {Curios: []},
+		"iceandfire:entity_data": {
+			chickenData: {timeUntilNextEgg: -1},
+			chainedData: {},
+			frozenData: {frozenTicks: 0, isFrozen: 0b},
+			sirenData: {isCharmed: 0b, charmedById: -1, charmTime: 0},
+			miscData: {hasDismounted: 0b, lungeTicks: 0, loveTicks: 0}},
+		"destroy:chemical_poison": {}
+	},
+	HandDropChances: [0.085f, 0.085f],
+	PersistenceRequired: 1b,
+	UUID: [I; 1631165641, -2086125485, -1855756585, -1329334277],
+	Age: 0,
+	BalmData: {},
+	Motion: [0.0d, -0.0784000015258789d, 0.0d],
+	Leash: {X: -378, Y: 67, Z: -932},
+	Health: 22.0f,
+	LeftHanded: 0b,
+	Air: 300s,
+	OnGround: 1b,
+	CitadelData: {},
+	Rotation: [345.02734f, 0.0f],
+	HandItems: [{}, {}],
+	FireType: "minecraft:",
+	Variant: 258,
+	ArmorDropChances: [0.085f, 0.085f, 0.0f, 0.085f],
+	CustomName: '{"text":"Maximus"}',
+	Pos: [-376.3676054511751d, 67.1875d, -930.363217855212d],
+	Fire: -1s,
+	ArmorItems: [{}, {}, {id: "minecraft:diamond_horse_armor", Count: 1b}, {}],
+	Temper: 10,
+	CanPickUpLoot: 0b,
+	SaddleItem: {id: "minecraft:saddle", Count: 1b},
+	HurtTime: 0s,
+	"forge:spawn_type": "CHUNK_GENERATION"
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

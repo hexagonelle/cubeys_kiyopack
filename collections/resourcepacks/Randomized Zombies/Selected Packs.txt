@@ -1,0 +1,15 @@
+Vanilla Tweaks Resource Pack
+Version: 1.21
+Packs:
+	MZZuri
+	MZSunny
+	MZSteve
+	MZNoor
+	MZMakena
+	MZKai
+	MZEfe
+	MZAri
+	MZAlex
+
+Combined packs:
+	MZAlex+MZAri+MZEfe+MZKai+MZMakena+MZNoor+MZSteve+MZSunny+MZZuri
