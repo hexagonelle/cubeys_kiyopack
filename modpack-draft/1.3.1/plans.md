@@ -7,7 +7,7 @@ FUTURE
 - patchouli + eccentric tome - fix with modonomicon?
 - better silent gear book
 - spawn ender dragon head on ender dragon defeat
-- change alex's mobs config to prevent catfish, fly, skreecher spawning
+- remove better 3rd person from server (it's a client-side mod)
 
 The following can be updated based on dependencies higher in the tree:
 

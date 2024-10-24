@@ -1,7 +1,7 @@
 ## 🇷 Cubey's Kiyopack 1.3.0
 For complete changelog, see [Github](https://github.com/hexagonelle/cubeys_kiyopack/blob/35b025cb1488dd99623f2a90fa18d3dbaa8559aa/Changelog/changelog%20-%201.3.0.md)
 
-**NOTES:**
+**IMPORTANT NOTES:**
 - JourneyMap has been kept in to ease the transition, but players should switch to Xaero's, as future versions will not include JourneyMap.
 - Areas will need to be reclaimed with the new claims system.
 - Cobblemon may still be bugged. To prevent crashes, please use SHIFT when looking at a pokemon you want to catch. The pokemon's ability will be shown at the top of the screen. If this ability is "dummy", KILL THAT POKEMON.
