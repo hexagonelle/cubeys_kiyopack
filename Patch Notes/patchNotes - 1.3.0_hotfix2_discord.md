@@ -1,5 +1,5 @@
 ## 🇷 Cubey's Kiyopack 1.3.0_hotfix2
-For complete changelog, see [Github](https://github.com/hexagonelle/cubeys_kiyopack/blob/3c84cba042426ebb051c119f6e099fedcb106910/Changelog/changelog%20-%201.3.0_hotfix1.md)
+For complete changelog, see [Github](https://github.com/hexagonelle/cubeys_kiyopack/blob/c969bc45181b2e1f34243faada9e380a980988d7/Changelog/changelog%20-%201.3.0_hotfix2.md)
 
 **IMPORTANT NOTES:**
 - JourneyMap has been kept in to ease the transition, but players should switch to Xaero's, as future versions will not include JourneyMap.
