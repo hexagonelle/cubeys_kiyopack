@@ -1,0 +1,37 @@
+#This should under no circumstances be set to true in modpacks
+#If set to true, the mod creates a new global folder, that is global for your user on your computer.
+#The created folders will be:
+# <user_home>/.minecraft_global_packs/required_datapacks
+# <user_home>/.minecraft_global_packs/optional_datapacks
+# <user_home>/.minecraft_global_packs/required_resourcepacks
+# <user_home>/.minecraft_global_packs/optional_resourcepacks
+enable_system_global_packs = false
+
+#This config allows you to add or remove folders or single files as Data-/Resourcepacks
+#For that simply specify the file path to the folder/file relative to your .minecraft or instance folder
+#With the current config you can place a Datapack into '.minecraft/global_packs/required_data' to force enable a datapack.
+[resourcepacks]
+required = [
+    #"other_folder/random_pack.zip" # You can also point at specific files!
+    "resourcepacks/VanillaTweaks_r537968_MC1.20.x.zip",
+    "resourcepacks/[1.4.1] Enhanced Boss Bars.zip",
+    "resourcepacks/Alternate_3D_Trident_1.0_1.20.X.zip",
+    "resourcepacks/BrewingCanvas_v0.6_1.19.zip",
+    "resourcepacks/Create Immersive Aircrafts Resource Pack 1.20.1 - 2.0.zip",
+    "resourcepacks/Create-Construction-Wands.zip",
+    "resourcepacks/cubic-sun-moon-v1-8a.zip",
+    "resourcepacks/EnderDragonTheme.zip",
+    "resourcepacks/EnderEyes_1.20.1_v3.zip",
+    "resourcepacks/Slightly-Improved-Font-1.1.4.zip",
+    "resourcepacks/Explorer_Compass_Retexture.zip",
+    "resourcepacks/repel_block_retexture.zip",
+    "resourcepacks/cluttered_everycomp_fix.zip",
+    "resources/Kiyo Paintings.zip"
+]
+
+[datapacks]
+required = [
+]
+
+optional = [
+]

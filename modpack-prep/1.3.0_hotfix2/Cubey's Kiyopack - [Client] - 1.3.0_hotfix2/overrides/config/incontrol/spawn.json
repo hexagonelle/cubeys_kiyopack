@@ -1,0 +1,30 @@
+[
+	{
+		"mob": "mutantmonsters:mutant_zombie",
+		"result": "deny"
+	},
+	{
+		"mob": "mutantmonsters:mutant_skeleton",
+		"result": "deny"
+	},
+	{
+		"mob": "mutantmonsters:mutant_creeper",
+		"result": "deny"
+	},
+	{
+		"mob": "mutantmonsters:mutant_enderman",
+		"result": "deny"
+	},
+	{
+		"mob": "alexsmobs:skreecher",
+		"result": "deny"
+	},
+	{
+		"mob": "alexsmobs:fly",
+		"result": "deny"
+	},
+	{
+		"mob": "alexsmobs:catfish",
+		"result": "deny"
+	}
+]

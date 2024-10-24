@@ -9,6 +9,7 @@ FUTURE
 - spawn ender dragon head on ender dragon defeat
 - remove better 3rd person from server (it's a client-side mod)
 - update to forge 47.3.0 now that ad astra is updated
+- remove flicker fix, corail already does that
 
 The following can be updated based on dependencies higher in the tree:
 

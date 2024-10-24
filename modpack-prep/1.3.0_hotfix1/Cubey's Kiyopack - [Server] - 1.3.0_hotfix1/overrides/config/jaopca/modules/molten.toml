@@ -1,7 +1,0 @@
-
-[general]
-	#The material blacklist of this module.
-	materialBlacklist = ["arcane_gold", "azure_silver", "calorite", "crimson_iron", "desh", "iesnium", "ostrum"]
-	#The materials to force generate passive forms for this module.
-	passiveMaterialWhitelist = []
-

@@ -1,0 +1,912 @@
+{
+  "mustAllowEntityRiding": false,
+  "pokemonTypes": {
+    "Nidoking": {
+      "stamina": 2400,
+      "mountType": [
+        "WALK"
+      ],
+      "ridingOffSet": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "passengersOffSet": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "speedModifier": 1.0
+    },
+    "Luxray": {
+      "stamina": 2400,
+      "mountType": [
+        "WALK"
+      ],
+      "ridingOffSet": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "passengersOffSet": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "speedModifier": 1.0
+    },
+    "Mamoswine": {
+      "stamina": 2400,
+      "mountType": [
+        "WALK"
+      ],
+      "ridingOffSet": [
+        0.0,
+        5.0,
+        0.0
+      ],
+      "passengersOffSet": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "speedModifier": 1.0
+    },
+    "Relicanth": {
+      "stamina": 2400,
+      "mountType": [
+        "SWIM"
+      ],
+      "ridingOffSet": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "passengersOffSet": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "speedModifier": 1.0
+    },
+    "Espahtla": {
+      "stamina": 2400,
+      "mountType": [
+        "WALK"
+      ],
+      "ridingOffSet": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "passengersOffSet": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "speedModifier": 1.0
+    },
+    "Dragonite": {
+      "stamina": 2400,
+      "mountType": [
+        "WALK",
+        "FLY"
+      ],
+      "ridingOffSet": [
+        0.0,
+        2.0,
+        0.0
+      ],
+      "passengersOffSet": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "speedModifier": 1.0
+    },
+    "Fearow": {
+      "stamina": 2400,
+      "mountType": [
+        "WALK",
+        "FLY"
+      ],
+      "ridingOffSet": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "passengersOffSet": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "speedModifier": 1.0
+    },
+    "Garchomp": {
+      "stamina": 2400,
+      "mountType": [
+        "WALK"
+      ],
+      "ridingOffSet": [
+        0.0,
+        2.0,
+        0.0
+      ],
+      "passengersOffSet": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "speedModifier": 1.0
+    },
+    "Dodrio": {
+      "stamina": 2400,
+      "mountType": [
+        "WALK"
+      ],
+      "ridingOffSet": [
+        0.0,
+        1.2,
+        0.0
+      ],
+      "passengersOffSet": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "speedModifier": 1.0
+    },
+    "Arcanine": {
+      "stamina": 2400,
+      "mountType": [
+        "WALK"
+      ],
+      "ridingOffSet": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "passengersOffSet": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "speedModifier": 1.0
+    },
+    "Steelix": {
+      "stamina": 2400,
+      "mountType": [
+        "WALK"
+      ],
+      "ridingOffSet": [
+        0.0,
+        6.0,
+        0.0
+      ],
+      "passengersOffSet": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "speedModifier": 1.0
+    },
+    "Stantler": {
+      "stamina": 2400,
+      "mountType": [
+        "WALK"
+      ],
+      "ridingOffSet": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "passengersOffSet": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "speedModifier": 1.0
+    },
+    "Avalugg": {
+      "stamina": 2400,
+      "mountType": [
+        "WALK",
+        "SWIM"
+      ],
+      "ridingOffSet": [
+        0.0,
+        3.0,
+        0.0
+      ],
+      "passengersOffSet": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "speedModifier": 1.0
+    },
+    "Magnezone": {
+      "stamina": 2400,
+      "mountType": [
+        "WALK"
+      ],
+      "ridingOffSet": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "passengersOffSet": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "speedModifier": 1.0
+    },
+    "Stoutland": {
+      "stamina": 2400,
+      "mountType": [
+        "WALK"
+      ],
+      "ridingOffSet": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "passengersOffSet": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "speedModifier": 1.0
+    },
+    "Mightyena": {
+      "stamina": 2400,
+      "mountType": [
+        "WALK"
+      ],
+      "ridingOffSet": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "passengersOffSet": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "speedModifier": 1.0
+    },
+    "Wailmer": {
+      "stamina": 2400,
+      "mountType": [
+        "SWIM"
+      ],
+      "ridingOffSet": [
+        0.0,
+        2.0,
+        0.0
+      ],
+      "passengersOffSet": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "speedModifier": 1.0
+    },
+    "Sawsbuck": {
+      "stamina": 2400,
+      "mountType": [
+        "WALK"
+      ],
+      "ridingOffSet": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "passengersOffSet": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "speedModifier": 1.0
+    },
+    "Mudsdale": {
+      "stamina": 2400,
+      "mountType": [
+        "WALK"
+      ],
+      "ridingOffSet": [
+        0.0,
+        2.0,
+        0.0
+      ],
+      "passengersOffSet": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "speedModifier": 1.0
+    },
+    "Ursaluna": {
+      "stamina": 2400,
+      "mountType": [
+        "WALK"
+      ],
+      "ridingOffSet": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "passengersOffSet": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "speedModifier": 1.0
+    },
+    "Metagross": {
+      "stamina": 2400,
+      "mountType": [
+        "WALK"
+      ],
+      "ridingOffSet": [
+        0.0,
+        2.0,
+        0.0
+      ],
+      "passengersOffSet": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "speedModifier": 1.0
+    },
+    "Corviknight": {
+      "stamina": 2400,
+      "mountType": [
+        "WALK",
+        "FLY"
+      ],
+      "ridingOffSet": [
+        0.0,
+        3.0,
+        0.0
+      ],
+      "passengersOffSet": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "speedModifier": 1.0
+    },
+    "Staraptor": {
+      "stamina": 2400,
+      "mountType": [
+        "WALK",
+        "FLY"
+      ],
+      "ridingOffSet": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "passengersOffSet": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "speedModifier": 1.0
+    },
+    "Charizard": {
+      "stamina": 2400,
+      "mountType": [
+        "WALK",
+        "FLY"
+      ],
+      "ridingOffSet": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "passengersOffSet": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "speedModifier": 1.0
+    },
+    "Swampert": {
+      "stamina": 2400,
+      "mountType": [
+        "WALK",
+        "SWIM"
+      ],
+      "ridingOffSet": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "passengersOffSet": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "speedModifier": 1.0
+    },
+    "Rapidash": {
+      "stamina": 2400,
+      "mountType": [
+        "WALK"
+      ],
+      "ridingOffSet": [
+        0.0,
+        0.8,
+        0.0
+      ],
+      "passengersOffSet": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "speedModifier": 1.0
+    },
+    "Skeledirge": {
+      "stamina": 2400,
+      "mountType": [
+        "WALK"
+      ],
+      "ridingOffSet": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "passengersOffSet": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "speedModifier": 1.0
+    },
+    "Dewgong": {
+      "stamina": 2400,
+      "mountType": [
+        "WALK",
+        "SWIM"
+      ],
+      "ridingOffSet": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "passengersOffSet": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "speedModifier": 1.0
+    },
+    "Yanmega": {
+      "stamina": 2400,
+      "mountType": [
+        "FLY"
+      ],
+      "ridingOffSet": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "passengersOffSet": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "speedModifier": 1.0
+    },
+    "Tauros": {
+      "stamina": 2400,
+      "mountType": [
+        "WALK"
+      ],
+      "ridingOffSet": [
+        0.0,
+        2.0,
+        0.0
+      ],
+      "passengersOffSet": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "speedModifier": 1.0
+    },
+    "Aerodactyl": {
+      "stamina": 2400,
+      "mountType": [
+        "WALK",
+        "FLY"
+      ],
+      "ridingOffSet": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "passengersOffSet": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "speedModifier": 1.0
+    },
+    "Sharpedo": {
+      "stamina": 2400,
+      "mountType": [
+        "SWIM"
+      ],
+      "ridingOffSet": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "passengersOffSet": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "speedModifier": 1.0
+    },
+    "Bouffalant": {
+      "stamina": 2400,
+      "mountType": [
+        "WALK"
+      ],
+      "ridingOffSet": [
+        0.0,
+        2.0,
+        0.0
+      ],
+      "passengersOffSet": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "speedModifier": 1.0
+    },
+    "Exeggutor": {
+      "stamina": 2400,
+      "mountType": [
+        "WALK"
+      ],
+      "ridingOffSet": [
+        0.0,
+        3.0,
+        0.0
+      ],
+      "passengersOffSet": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "speedModifier": 1.0
+    },
+    "Camerupt": {
+      "stamina": 2400,
+      "mountType": [
+        "WALK"
+      ],
+      "ridingOffSet": [
+        0.0,
+        2.0,
+        0.0
+      ],
+      "passengersOffSet": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "speedModifier": 1.0
+    },
+    "Scolipede": {
+      "stamina": 2400,
+      "mountType": [
+        "WALK"
+      ],
+      "ridingOffSet": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "passengersOffSet": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "speedModifier": 1.0
+    },
+    "Blastoise": {
+      "stamina": 2400,
+      "mountType": [
+        "WALK",
+        "SWIM"
+      ],
+      "ridingOffSet": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "passengersOffSet": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "speedModifier": 1.0
+    },
+    "Lapras": {
+      "stamina": 2400,
+      "mountType": [
+        "SWIM"
+      ],
+      "ridingOffSet": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "passengersOffSet": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "speedModifier": 1.0
+    },
+    "Wyrdeer": {
+      "stamina": 2400,
+      "mountType": [
+        "WALK"
+      ],
+      "ridingOffSet": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "passengersOffSet": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "speedModifier": 1.0
+    },
+    "Gyarados": {
+      "stamina": 2400,
+      "mountType": [
+        "SWIM"
+      ],
+      "ridingOffSet": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "passengersOffSet": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "speedModifier": 1.0
+    },
+    "Ninetales": {
+      "stamina": 2400,
+      "mountType": [
+        "WALK"
+      ],
+      "ridingOffSet": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "passengersOffSet": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "speedModifier": 1.0
+    },
+    "Samurott": {
+      "stamina": 2400,
+      "mountType": [
+        "WALK",
+        "SWIM"
+      ],
+      "ridingOffSet": [
+        0.0,
+        2.0,
+        0.0
+      ],
+      "passengersOffSet": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "speedModifier": 1.0
+    },
+    "Tentacruel": {
+      "stamina": 2400,
+      "mountType": [
+        "WALK",
+        "SWIM"
+      ],
+      "ridingOffSet": [
+        0.0,
+        1.5,
+        0.0
+      ],
+      "passengersOffSet": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "speedModifier": 1.0
+    },
+    "Meganium": {
+      "stamina": 2400,
+      "mountType": [
+        "WALK"
+      ],
+      "ridingOffSet": [
+        0.0,
+        2.0,
+        0.0
+      ],
+      "passengersOffSet": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "speedModifier": 1.0
+    },
+    "Feraligatr": {
+      "stamina": 2400,
+      "mountType": [
+        "WALK",
+        "SWIM"
+      ],
+      "ridingOffSet": [
+        0.0,
+        2.0,
+        0.0
+      ],
+      "passengersOffSet": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "speedModifier": 1.0
+    },
+    "Golurk": {
+      "stamina": 2400,
+      "mountType": [
+        "WALK"
+      ],
+      "ridingOffSet": [
+        0.0,
+        5.0,
+        0.0
+      ],
+      "passengersOffSet": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "speedModifier": 1.0
+    },
+    "Pidgeot": {
+      "stamina": 2400,
+      "mountType": [
+        "WALK",
+        "FLY"
+      ],
+      "ridingOffSet": [
+        0.0,
+        0.7,
+        0.0
+      ],
+      "passengersOffSet": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "speedModifier": 1.0
+    }
+  }
+}
