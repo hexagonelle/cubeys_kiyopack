@@ -1,15 +1,17 @@
-FUTURE
-- make new custom guns (kiyo's railgun, db's portal gun (a time gun? speed/slow), elle's teslagun)
-- custom hats?
-- redo skill trees
-- cobblemon pc corruption bug
-- sophisticated chests index shift
-- patchouli + eccentric tome - fix with modonomicon?
-- better silent gear book
-- spawn ender dragon head on ender dragon defeat
+- better silent gear book (or disable)
+- spawn ender dragon head on ender dragon defeat (portal spawns at 0,0 always?)
 - remove better 3rd person from server (it's a client-side mod)
 - update to forge 47.3.0 now that ad astra is updated
 - remove flicker fix, corail already does that
+- replace sodium/embeddium dynamic lights with ryoamic lights (fixes radiant gear)
+- add pvp flagging to server
+- toggle on waystone teleporting leashed pets
+- waystones dimensional tp should be off
+- add pressing recipe to press coarse dirt into dirt path
+- add deployer recipe to deploy dirt on dirt path to make dirt (does not consume deployed dirt)
+- Hexerei update fixes witch armor (test)
+
+
 
 The following can be updated based on dependencies higher in the tree:
 
@@ -34,6 +36,6 @@ The following can be updated based on dependencies higher in the tree:
 		- Steam n Rails
 		- Protection Pixel
 - Forge 47.3.0
-	- SeasonHUD: 1.10.9 --> 1.11.1
-	- Serene Seasons: 9.0.0.46 --> 9.1.0.0
 	- EMI Loot
+	- Serene Seasons:
+		- SeasonHUD:
